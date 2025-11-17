@@ -27,7 +27,7 @@ import GoalsAndStreaksPage from './pages/dashboard/GoalsAndStreaksPage'
 import NotificationsPage from './pages/notifications/NotificationsPage'
 import SettingsPage from './pages/dashboard/SettingsPage'
 
-// Protected Route Component
+// Protected Route Componentaaa
 const ProtectedRoute = ({ children }) => {
   const location = useLocation();
   const { currentUser, loading } = useAuth();
