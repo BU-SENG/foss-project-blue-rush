@@ -15,7 +15,7 @@
 
   **A modern, feature-rich Progressive Web App (PWA) for habit tracking and personal growth**
 
-  [Live Demo](https://habitvault.vercel.app) • [Report Bug](https://github.com/Osaseye/HABITVAULT/issues) • [Request Feature](https://github.com/Osaseye/HABITVAULT/issues)
+  [Live Demo](https://habitvault-self.vercel.app) • [Report Bug](https://github.com/Osaseye/HABITVAULT/issues) • [Request Feature](https://github.com/Osaseye/HABITVAULT/issues)
 </div>
 
 ---
@@ -822,7 +822,7 @@ chore: Maintenance tasks
 3. **Deploy**
    - Vercel auto-deploys on push to main
    - Preview deployments for PRs
-   - Production URL: `https://habitvault.vercel.app`
+   - Production URL: `https://habitvault-self.vercel.app`
 
 ### Manual Deployment
 
@@ -901,7 +901,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 🔗 Project Link: [https://github.com/Osaseye/HABITVAULT](https://github.com/Osaseye/HABITVAULT)
 
 ### Live Application
-🌐 Live Demo: [https://habitvault.vercel.app](https://habitvault.vercel.app)
+🌐 Live Demo: [https://habitvault-self.vercel.app](https://habitvault-self.vercel.app)
 
 ---
 
